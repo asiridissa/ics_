@@ -1,0 +1,8 @@
+||Month : 10 - 2015|||Vehical : All Vehicals||||By user : admin
+NO|Bill No|Customer|Tol Sale|Varience|Expiries|Damages|Discount|GR|F/Issu|Cash|Cheques|Debit|Credits
+1|10|STARTEL COM - OTH|131.25|0|0|0|0|0|0|131.25|0|0|0|
+2|20|STARTEL COM - OTH|262.5|0|0|0|0|0|0|0|250|0|12.5|
+3|30|STARTEL COM - OTH|393.75|0|0|0|0|0|0|0|250|0|143.75|
+
+||Total|787.5|0|0|0|0|0|0|131.25|500|0|156.25|
+||Upto Date Total|0|0|0|0|0|0|0|0|0|0|0

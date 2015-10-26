@@ -1,0 +1,8 @@
+ Date : 10/24/15    Vehical : 28 -  8897  Wan    By User : asiri
+No|Item|Weight|Price|UPC|BSC|BSP|RDR|LDC|LDP|ULC|ULP|RDC|RDP|BilP|Excs|Shrt
+1|Goold Marie - 02/24/2013|  0.080|   26.25| 60|0|0|0|0|0|0|0|0|0|12|12|0
+2|Chocolate Cream - 08/14/2013|  0.100|   43.25| 50|0|0|0|0|0|0|0|0|0|2|2|0
+3|Cheese Bits - 05/13/2013|  0.080|   63.00| 25|0|0|0|0|0|0|0|0|0|12|12|0
+ 
+|Sales Value   :           1,157.50 /=|Sales Tonnage :               2.120 kg
+|Stock Value   :          96,055.00 /=|Stock Tonnage :             260.400 kg

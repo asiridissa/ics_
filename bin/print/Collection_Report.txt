@@ -1,0 +1,35 @@
+|||||From : 01/01/2013 To : 10/24/2015    By user : admin
+|No|Date|Bill No.|Customer|Bill Total|Paid|Collection|Days
+Other Custermer (OTH)
+|1|10/01/15|10|STARTEL COM|131.25|0|131.25|23|
+|2|10/02/15|20|STARTEL COM|262.5|0|262.5|22|
+|3|10/03/15|30|STARTEL COM|393.75|0|393.75|21|
+|||Sub-Total :|3|787.5|0|787.5|
+Yatalamattha Banbarapura (2MO)
+|||Sub-Total :|0|0|0|0|
+Kottawa Yatalamatta (2TU)
+|||Sub-Total :|0|0|0|0|
+Nagoda Unanvitiya (2WE)
+|||Sub-Total :|0|0|0|0|
+Ovilana Labuduwa (2TH)
+|||Sub-Total :|0|0|0|0|
+Thalagaha Kuruduwatta (2FR)
+|||Sub-Total :|0|0|0|0|
+Wanduramba Ovilana (2SA)
+|||Sub-Total :|0|0|0|0|
+Dangedara  Elliot Road (MON)
+|||Sub-Total :|0|0|0|0|
+Kuruduwatta  Bataduwa (TUE)
+|||Sub-Total :|0|0|0|0|
+Narawala  Ambalanwatta (WED)
+|||Sub-Total :|0|0|0|0|
+Milidduwa Magalle (THU)
+|||Sub-Total :|0|0|0|0|
+Kithulampitiya Karapitiya (FRI)
+|||Sub-Total :|0|0|0|0|
+Kuruduwatta Kottawa (SAT)
+|||Sub-Total :|0|0|0|0|
+Udugama (UDM)
+|||Sub-Total :|0|0|0|0|
+ 
+|||Total :|3|787.5|0|787.5|

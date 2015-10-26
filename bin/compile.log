@@ -1,0 +1,48 @@
+19:35:20 Looking for *.p in E:\ICS_\bin
+Compiling db.p
+Compiling emptyDBWOReference.p
+Compiling logger.p
+Compiling MenuUser.p
+Compiling RunAsAdmin.p
+Compiling runner.p
+Compiling sys_audit.p
+19:35:20 Looking for *.w in E:\ICS_\bin
+Compiling Areas.w
+Compiling Banks.w
+Compiling Billing.w
+Compiling BillingCommon.w
+Compiling BillingReport.w
+Compiling Branches.w
+Compiling bsChange.w
+Compiling BSEdit.w
+Compiling BSSave.w
+Compiling c-win.w
+Compiling Cash.w
+Compiling Cheques.w
+Compiling Cheques2.w
+Compiling CollectionReport.w
+Compiling CusCredits.w
+Compiling CustomerCat.w
+Compiling Customers.w
+Compiling DailySummary.w
+Compiling Dashboard.w
+Compiling DayEndLog.w
+Compiling DaySale.w
+Compiling enable.w
+Compiling FinancialState.w
+Compiling Invoices.w
+Compiling ItemCat.w
+Compiling Items.w
+Compiling ItemSorting.w
+Compiling loading.w
+Compiling login.w
+Compiling para.w
+Compiling PaymentMethods.w
+Compiling pwrd.w
+Compiling SpotStockTest.w
+Compiling Tree.w
+Compiling UserCat.w
+Compiling Users.w
+Compiling Vehicals.w
+19:35:23 Looking for *.cls in E:\ICS_\bin
+19:35:23 Looking for *.p*.w*.cls in E:\ICS_\bin
